@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="primary">16dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="mini">4dp</dimen>
+    <dimen name="scoreTextSize">40sp</dimen>
+    <dimen name="teamName">16sp</dimen>
+    <dimen name="titleTextItem">16sp</dimen>
+    <dimen name="detailTextItemAttribute">14sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="imageSizeBadge">60dp</dimen>
+    <dimen name="imageSizeBadgeGrid">90dp</dimen>
+    <dimen name="textSizeBadge">18sp</dimen>
+    <dimen name="textSizeBadgeGrid">12sp</dimen>
+
+    <dimen name="textSizePlayer">14sp</dimen>
+
+
+
+
+
+
+</resources>

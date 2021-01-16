@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_match"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="@string/bottom_match" />
+
+    <item
+        android:id="@+id/navigation_team"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:title="@string/bottom_teams" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="@string/favorite"/>
+
+</menu>
